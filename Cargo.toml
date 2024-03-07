@@ -1,0 +1,5 @@
+[package]
+name = "double-buffer"
+version = "0.0.1"
+edition = "2021"
+authors = ["Mohit Mayank <mohit@mmynk.com>"]
